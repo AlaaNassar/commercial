@@ -47,7 +47,7 @@ namespace ConsoleApp1
                         newDic.Add(d.Key,d.Value);
                         Console.WriteLine(d.Key);
                     }
-
+                     
                 }
                 else
                 {
